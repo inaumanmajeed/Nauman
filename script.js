@@ -16,7 +16,7 @@ class Birthday {
         this.countdownContainer = document.getElementById('countdown-container')
         this.birthdayWishContainer = document.getElementById('birthday-wish-container')
         this.countdownPalette = document.getElementById('countdown-palette')
-        this.countdownDate = new Date('2024-01-24T00:00:00').getTime()
+        this.countdownDate = new Date('2024-02-28T00:00:00').getTime()
     }
     
     resize() {
